@@ -186,7 +186,7 @@ import {
   Gift,
   UserPlus,
 } from "lucide-react";
-import Stats from "./stats";
+import Stats from "./Stats";
 import ScrollFloat from "../components/ScrollFloat";
 import HowWeWork from "../components/HowWeWork";
 import TextMarquee from "../components/TextMarquee";
